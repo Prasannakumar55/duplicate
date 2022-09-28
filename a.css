@@ -1,0 +1,16 @@
+
+body{
+    background-color: black;
+    color: white;
+}
+.Bunnu{
+    background-color: pink;
+    width: 300px;
+    height: 350px;
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 5px;
+    margin: auto;
+    width: 400px;
+}
